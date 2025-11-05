@@ -10,7 +10,7 @@ El repositorio está organizado por unidad temática o número de práctica para
 
 | Directorio/Carpeta |
 | :--- | 
-| `Practica-01: Método de bisección` | 
+| `Practica-01: Metodo_biseccion.py` | 
 | `Practica-02: Método de Newton-Raphson` |
 
 ## 🛠 Tecnologías y Herramientas
