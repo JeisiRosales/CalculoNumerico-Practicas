@@ -4,7 +4,7 @@ import time
 
 #Este programa permite a un usuario calcular el teorema del valor medio usando el metodo de biseccion. 
 #Materia: calculo numerico I
-#Realizado por: Jeisi Rosales (C.I: 2968571)
+#Realizado por: Jeisi Rosales 
 
 def main():
     # Presentacion del programa
@@ -66,4 +66,5 @@ def metodo_biseccion(f, x, e_relativo, a, b, i):
                     return metodo_biseccion(f, x, e_relativo, a, c, i + 1)
 
 if __name__ == "__main__":
+
     main()
